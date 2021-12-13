@@ -1,0 +1,7 @@
+reto semana 1 archivo 2
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/edgarcabc/git-semana1-respositorio.git
+git push -u origin main
